@@ -3,11 +3,6 @@
   "version": "0.0.12",
   "description": "Hashed Timelock Contracts for Ethereum",
   "main": "truffle.js",
-  "license": "GPL-3.0",
-  "repository": "chatch/hashed-timelock-contract-ethereum",
-  "bugs": {
-    "url": "https://github.com/chatch/hashed-timelock-contract-ethereum/issues"
-  },
   "directories": {
     "doc": "docs",
     "test": "test"
@@ -24,7 +19,6 @@
     "solidity",
     "smart-contract"
   ],
-  "homepage": "https://github.com/chatch/hashed-timelock-contract-ethereum#README.md",
   "dependencies": {
     "@truffle/contract": "^4.2.14",
     "openzeppelin-solidity": "^2.5.1"
